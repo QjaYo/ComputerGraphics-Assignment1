@@ -1,5 +1,7 @@
 # ComputerGraphics_2025Fall---Assignment1
 
+<video src="https://github.com/user-attachments/assets/27964bfe-ee31-4d9a-aad0-c9f66cebce47" width="400" controls><\video>
+
 ### 핵심 아이디어
 
 1. 체크무늬 평면 구현방법
