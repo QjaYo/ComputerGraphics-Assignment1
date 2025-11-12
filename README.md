@@ -1,1 +1,1 @@
-# ComputerGraphics_2025Fall---Assignment1
+# ComputerGraphics_2025Fall-Assignment1
